@@ -1,4 +1,4 @@
-#<p align="center">👋 Hi, I’m Filippos</p>
+👋 Hi, I’m Filippos
 - 👀 I’m interested in software developement, edutech, neurosciences, translation and literature.
 
 <!---
