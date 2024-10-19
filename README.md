@@ -1,4 +1,6 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center">👋 Hello there ! I'm Filippos.</h1>
 
-
-* I am [Filippos](www.linkedin.com/in/fkatsanos), comparative literature PhD and currently first year student in Computer Science with specialization in Software Development.
+* 💻 Student in Computer Science with specialization in Software Development.
+* 📚 Comparative literature PhD.
+* 🔭 I’m currently working on learning and exploring the world of coding.
+* 🧐 I'm interested in python, edutech, neurosciences, translation, literature.
