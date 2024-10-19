@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there ! I'm Filippos.</h1>
+<h1 align="center">👋 I'm Filippos.</h1>
 
 * 💻 Student in computer science with specialization in software development ;
 * 📚 Comparative literature PhD ;
