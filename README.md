@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @filippos
 - 👀 I’m interested in software developement, edutech, neurosciences, translation and literature.
-- 🌱 I’m currently learning to code and develop software.
 
 <!---
 filkat34/filkat34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
