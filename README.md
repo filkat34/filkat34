@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @filippos
+- 👋 Hi, I’m @filippos !
 - 👀 I’m interested in software developement, edutech, neurosciences, translation and literature.
 
 <!---
