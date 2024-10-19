@@ -1,7 +1,4 @@
-👋 Hi, I’m Filippos
-- 👀 I’m interested in software developement, edutech, neurosciences, translation and literature.
+<h1 align="center"> Hello There 👋 </h1>
 
-<!---
-filkat34/filkat34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+* I am [Filippos Katsanos](www.linkedin.com/in/fkatsanos). Comparative literature PhD and currently first year student in Computer Science with specialization in software development.
