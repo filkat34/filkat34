@@ -11,3 +11,8 @@
     <img src="https://skillicons.dev/icons?i=py,java,cs,js,php,html,css,mysql,postgres,mongodb,git,debian,wordpress" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cs,js,php,html,css,mysql,postgres,mongodb,git,debian,wordpress" />
+  </a>
+</p>
