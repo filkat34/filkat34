@@ -5,7 +5,7 @@
 * 🔭 I’m currently working on learning and exploring the world of coding ;
 * 🧐 I'm interested in python, edutech, neurosciences, translation, literature.
 
-## Learning :computer:
+## :computer: Learning
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cs,js,php,html,css,mysql,postgres,mongodb,git,debian,wordpress" />
