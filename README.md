@@ -1,6 +1,6 @@
 # About me
 
-* 👋 I'm Filippos !
+* 👋 I'm Filippos.
 * 💻 Student in computer science with specialization in software development ;
 * 📚 Comparative literature PhD ;
 * 🔭 Working on learning and exploring the world of coding ;
