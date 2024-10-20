@@ -1,4 +1,4 @@
-#👋 I'm Filippos.
+# 👋 I'm Filippos.
 
 * 💻 Student in computer science with specialization in software development ;
 * 📚 Comparative literature PhD ;
