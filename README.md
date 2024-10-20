@@ -8,7 +8,7 @@
 <h2 align="center"> :computer: Learning<h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,js,php,html,css,mysql,postgres,mongodb,git,debian,wordpress" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,js,php,html,css" />
   </a>
 </p>
 <p align="center">
@@ -16,10 +16,12 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
   </a>
 </p>
+<p align="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
+<p align="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=wordpress,grav" />
   </a>
