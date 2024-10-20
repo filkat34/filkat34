@@ -8,6 +8,6 @@
 ## Learning :computer:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mongodb,postgres,git,debian" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,cs,php,html,css,mongodb,postgres,git,debian,wordpress" />
   </a>
 </p>
