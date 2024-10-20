@@ -13,6 +13,14 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,js,php,html,css,mysql,postgres,mongodb,git,debian,wordpress" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  </a>
+</p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,grav" />
   </a>
 </p>
