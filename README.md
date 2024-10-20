@@ -7,8 +7,6 @@
 
 ## Learning :computer:
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/7a0448df-d434-4ae1-86d2-8473ebb72565)
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mongodb,postgres,git,debian" />
   </a>
