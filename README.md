@@ -2,9 +2,9 @@
 
 * 👋 I'm Filippos.
 * 💻 Student in computer science with specialization in software development ;
-* 📚 Comparative literature PhD ;
-* 🔭 Working on learning and exploring the world of coding ;
-* 🧐 Interested in open source software, edutech, neurosciences, translation, literature.
+* 📚 comparative literature PhD ;
+* 🔭 working on learning and exploring the world of coding ;
+* 🧐 interested in open source software, edutech, neurosciences, translation, literature.
 
 ## Learning...
 <p>
