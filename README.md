@@ -8,7 +8,7 @@
 
 ## Learning...
 
-### Languages
+#### Languages
 
 <p>
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### Database management systems
+#### Database management systems
 
 <p>
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-### Content management systems
+#### Content management systems
 
 <p>
   <a href="https://skillicons.dev">
@@ -32,11 +32,11 @@
   </a>
 </p>
 
-### Tools and environments
+#### Tools and environments
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian, github, vscode, visual studio, pycharm, eclipse, " />
+    <img src="https://skillicons.dev/icons?i=debian,github,vscode,visual studio,pycharm,eclipse" />
   </a>
 </p>
 
