@@ -1,10 +1,10 @@
 ## About me
 
-* 👋 I'm Filippos.
-* 💻 Student in computer science with specialization in software development ;
-* 📚 comparative literature PhD ;
-* 🔭 working on learning and exploring the world of coding ;
-* 🧐 interested in open source software, edutech, neurosciences, translation, literature.
+👋 I'm Filippos.
+💻 Student in computer science with specialization in software development ;
+📚 comparative literature PhD ;
+🔭 working on learning and exploring the world of coding ;
+🧐 interested in open source software, edutech, neurosciences, translation, literature.
 
 ## Learning...
 
