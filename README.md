@@ -1,6 +1,6 @@
 ## 👋 About me
 
-##### I'm Filippos.
+### I'm Filippos.
 
 - [x] Student in computer science with specialization in software development ;
 
