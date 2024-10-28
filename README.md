@@ -1,6 +1,6 @@
 ## About me
 
-<h4 style text-align="center">👋 I'm Filippos.</h4>
+### 👋 I'm Filippos.
 
 💻 Student in computer science with specialization in software development ;
 
