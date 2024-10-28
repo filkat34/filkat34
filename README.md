@@ -1,16 +1,18 @@
-## About me
+## 👋 About me
 
-* 👋 I'm Filippos.
+* I'm Filippos.
 
-* 💻 Student in computer science with specialization in software development ;
+* Student in computer science with specialization in software development ;
 
-* 📚 comparative literature PhD and 🏫 high school literature teacher ;
+* comparative literature PhD ;
+  
+* master's degree in educational neuroscience ;
+  
+* high school literature teacher ;
 
-* 🔭 working on learning and exploring the world of coding ;
+* interested in open source software, edutech, neurosciences, translation, literature.
 
-* 🧐 interested in open source software, edutech, neurosciences, translation, literature.
-
-## Learning...
+## 🌱 Learning...
 
 #### Languages
 
@@ -54,5 +56,6 @@
   </a>
 </p>
 
+## 📫 Contact me
 
-
+You can send me an email <a href="mailto:filippos29@hotmail.com">here</a>.
