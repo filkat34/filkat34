@@ -4,7 +4,7 @@
 
 * 💻 Student in computer science with specialization in software development ;
 
-* 📚 comparative literature PhD ;
+* 📚 comparative literature PhD and 🏫 high school literature teacher ;
 
 * 🔭 working on learning and exploring the world of coding ;
 
