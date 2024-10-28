@@ -12,7 +12,7 @@
 
 - [x] interested in open source software, edutech, neurosciences, translation, literature.
 
-## 🌱 Learning...
+## 🌱 Learning
 
 #### Languages
 
