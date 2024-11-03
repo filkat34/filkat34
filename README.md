@@ -1,6 +1,6 @@
 ## 👋 I'm Filippos.
 
-* 🧑🏻‍💻 Student in computer science with specialization in software development ;
+* 💻 Student in computer science with specialization in software development ;
 
 * 📚 comparative literature PhD ;
   
