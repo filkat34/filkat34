@@ -10,7 +10,7 @@
   
 - [x] high school literature teacher ;
 
-- [x] interested in open source software, edutech, neurosciences, translation, literature.
+- [x] interested in software development, edutech, neurosciences, translation, literature.
 
 ## 🌱 Learning
 
