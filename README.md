@@ -10,7 +10,7 @@
 
 * 🧐 interested in software development, edutech, neurosciences, translation, literature.
 
-## 🌱 Learning
+## 🌱 Learning...
 
 #### Languages
 
