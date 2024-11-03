@@ -52,7 +52,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,github,vscode,pycharm,eclipse" />
+    <img src="https://skillicons.dev/icons?i=debian,windows,github,vscode,pycharm,eclipse" />
   </a>
 </p>
 
