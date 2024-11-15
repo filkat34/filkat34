@@ -34,14 +34,6 @@
   </a>
 </p>
 
-#### Content management systems
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
-  </a>
-</p>
-
 #### Tools and environments
 
 <p>
