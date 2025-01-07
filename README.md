@@ -26,6 +26,8 @@
 </p>
 <p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34"/>
+
 #### Database management systems
 
 <p>
