@@ -26,6 +26,8 @@
 </p>
 <p>
 
+![filkat34's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&theme=nord&show_icons=true&hide_border=true&layout=compact)
+
 #### Database management systems
 
 <p>
@@ -41,8 +43,6 @@
     <img src="https://skillicons.dev/icons?i=debian,windows,github,vscode,visualstudio,pycharm,eclipse" />
   </a>
 </p>
-
-![filkat34's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Contact me
 
