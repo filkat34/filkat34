@@ -26,7 +26,7 @@
 </p>
 <p>
 
-![filkat34's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&theme=dark_icons=true&hide_border=true&layout=compact)
+![filkat34's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&theme=default_icons=true&hide_border=true&layout=compact)
 
 #### Database management systems
 
