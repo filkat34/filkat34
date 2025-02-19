@@ -8,7 +8,7 @@
   
 * 🏫 high school literature teacher ;
 
-* 🧐 interested in software development, edutech, neurosciences, translation, literature.
+* 🧐 interested in software development, edtech, neurosciences, translation, literature.
 
 ## 🌱 Learning...
 
