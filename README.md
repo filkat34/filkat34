@@ -1,14 +1,14 @@
 ## 👋 I'm Filippos.
 
-* 💻 Student in computer science with specialization in software development ;
+* 💻 Student in computer science with specialization in software development
 
-* 📚 comparative literature PhD ;
+* 📚 comparative literature PhD
   
-* 🧠 master's degree in educational neuroscience ;
+* 🧠 master's degree in educational neuroscience
   
-* 🏫 high school literature teacher ;
+* 🏫 high school literature teacher
 
-* 🧐 interested in software development, edtech, neurosciences, translation, literature.
+* 🧐 interested in software development, edtech, neurosciences, translation, literature
 
 ## 🌱 Learning...
 
