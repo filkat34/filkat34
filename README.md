@@ -14,7 +14,7 @@
 
 #### Languages
 
-* Languages : <a href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=cs, py, java, js, php, html, css">
+* Languages : <a href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=cs, py, java, js, php, html, css" />
 
 <p>
   <a href="https://skillicons.dev">
