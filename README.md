@@ -2,13 +2,13 @@
 
 💻 Student in computer science with specialization in software development
 
-📚 comparative literature PhD
+📚 Comparative literature PhD
 
-🧠 master's degree in educational neuroscience
+🧠 Master's degree in educational neuroscience
 
-🏫 high school literature teacher
+🏫 High school literature teacher
 
-🧐 interested in software development, edtech, neurosciences, translation, literature
+🧐 Interested in software development, edtech, neurosciences, translation, literature
 
 
 | 🌱 Learning   | ⚙️ Tech |
