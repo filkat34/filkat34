@@ -10,8 +10,6 @@
 
 🧐 Interested in software development, edtech, neurosciences, translation, literature
 
-<center>
-  
 | 🌱 Learning   | ⚙️ Tech |
 | --------------| ------------- |
 | Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,js" /></a> <br ><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,html,css"/>|
@@ -20,8 +18,6 @@
 | CMS           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" /></a>|
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse" /></a>|
 | Environments  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows" /></a>|
-
-</center>
 
 ### 📫 Contact
 
