@@ -1,9 +1,13 @@
 ### 👋 I'm Filippos.
 
 💻 Student in computer science with specialization in software development
+
 📚 comparative literature PhD
+
 🧠 master's degree in educational neuroscience
+
 🏫 high school literature teacher
+
 🧐 interested in software development, edtech, neurosciences, translation, literature
 
 
