@@ -14,7 +14,7 @@
 | 🌱 Learning   | ⚙️ Tech |
 | --------------| ------------- |
 | Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,js,php,html,css" /></a>|
-| Database Management | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </a>|
+| Database management | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </a>|
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse" /></a>|
 | Environments  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows" /></a>
 
