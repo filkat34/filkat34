@@ -11,7 +11,7 @@
 * 🧐 interested in software development, edtech, neurosciences, translation, literature
 
 
-| :seedling: Learning   | Tech |
+| Learning   | Tech |
 | --------------| ------------- |
 | Languages     | <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,dotnet, py,java,js,php,html,css" /></a>|
 | Database      | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </a>|
