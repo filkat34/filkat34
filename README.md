@@ -12,20 +12,15 @@
 
 ## 🌱 Learning...
 
-| Learning      | Tech |
-| ------------- | ------------- |
+| 🌱 Learning   | Tech |
+| --------------| ------------- |
 | Languages     | <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,py,java,js,php,html,css" /></a>|
 | Database      | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </a>|
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse" /></a>|
+| Environments  |  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian,windows" /></a>
 
 
-#### Tools and environments
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,windows,github,vscode,visualstudio,pycharm,eclipse" />
-  </a>
-</p>
 
 ## 📫 Contact me
 
