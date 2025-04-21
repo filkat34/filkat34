@@ -6,9 +6,9 @@
 
 🧠 Master's degree in educational neuroscience
 
-🏫 High school literature teacher
+👨‍🏫 High school literature teacher
 
-🧐 Interested in software development, edtech, neurosciences, translation, literature
+🔍 Interested in software development, edtech, neurosciences, translation, literature
 
 | 🌱 Learning   | ⚙️ Tech |
 | --------------: | ------------- |
