@@ -14,15 +14,17 @@
 
 #### Languages
 
-
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cs" />
   </a>
+</p>
 
-
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php" />
   </a>
+</p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&layout=pie&hide_title=true)](https://github.com/filkat34/github-readme-stats)
 
