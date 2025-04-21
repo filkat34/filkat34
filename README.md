@@ -26,6 +26,8 @@
 </p>
 <p>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34)](https://github.com/filkat34/github-readme-stats)
+
 #### Database management systems
 
 <p>
