@@ -6,6 +6,7 @@
 
 * 👨‍🏫 High school literature teacher
 <br>
+
 | 🌱 Learning   | ⚙️ Tech |
 | --------------: | ------------- |
 | Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,js" /></a> <br ><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,html,css"/>|
