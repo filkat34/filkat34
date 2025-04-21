@@ -5,6 +5,7 @@
 * 🎓 Comparative literature PhD & master's degree in educational neuroscience
 
 * 👨‍🏫 High school literature teacher
+<br>
 
 | 🌱 Learning   | ⚙️ Tech |
 | --------------: | ------------- |
