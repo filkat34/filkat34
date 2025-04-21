@@ -12,6 +12,11 @@
 
 ## 🌱 Learning...
 
+| Learning      | Tech |
+| ------------- | ------------- |
+| Languages     | <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,py,java,js,php,html,css" /></a>  |
+| Database      |  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </a>     |
+
 #### Languages
 
 * Languages :
