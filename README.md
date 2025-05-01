@@ -7,8 +7,6 @@
 * 👨‍🏫 High school literature teacher
 <br>
 
-| 🌱 Learning   | ⚙️ Tech |
-| --------------: | ------------- |
 | Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts,php,html,css&perline=3" /></a> 
 | Frameworks | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" /></a>|
 | Database <br> management <br> systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" /></a>|
