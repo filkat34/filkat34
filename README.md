@@ -16,7 +16,7 @@
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse" /></a>|
 | Environments  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian,windows" /></a>|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&layout=donut)](https://github.com/filkat34/github-readme-stats)
+![filkat34's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ### 📫 Contact
 
