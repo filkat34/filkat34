@@ -9,7 +9,7 @@
 
 | 🌱 Learning   | ⚙️ Tech |
 | --------------: | ------------- |
-| Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts" /></a> <br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,html,css"/></a>|
+| Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts&perline=2" /></a> <br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,html,css"/></a>|
 | Frameworks | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" /></a>|
 | Database <br> management <br> systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>|
 | CMS           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" /></a>|
