@@ -9,11 +9,11 @@
 
 | 🌱 Learning   | ⚙️ Tech |
 | --------------: | ------------- |
-| Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts,php,html,css&perline=3" /></a>|
+| Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts,php,html,css" /></a>|
 | Frameworks | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" /></a>|
-| Database <br> management <br> systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" /></a>|
+| Database <br> management <br> systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>|
 | CMS           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" /></a>|
-| Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse&perline=3" /></a>|
+| Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse" /></a>|
 | Environments  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian,windows" /></a>|
 
 ### 📫 Contact
