@@ -16,8 +16,6 @@
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse&perline=3" /></a>|
 | Environments  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian,windows" /></a>|
 
-![filkat34's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&theme=tokyonight&show_icons=true&hide_border=true&layout=donut)
-
 ### 📫 Contact
 
 You can send me an email <a href="mailto:filippos29@hotmail.com">here</a>.
