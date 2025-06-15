@@ -1,4 +1,4 @@
-### About me
+## About me
 
 * 👋 I'm Filippos.
 
@@ -8,9 +8,8 @@
 
 * 👨‍🏫 High school literature teacher
 
-### Tech stack
+## Tech stack
 
-| --------------: | ------------- |
 | Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts,php,html,css" /></a>|
 | Frameworks | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,tailwind" /></a>|
 | Database <br> management <br> systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>|
