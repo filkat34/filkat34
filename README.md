@@ -17,3 +17,11 @@
 | Database <br> management <br> systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>|
 | CMS           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" /></a>|
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" /></a>|
+
+### Featured projects
+
+## Apps for education
+
+| Name | Stack | Description |
+| --------------: | ------------- |------------- |
+| Repartitor | TS, IndexedDB, Angular |A management tool designed to organize the teaching responsibilities of a secondary school teaching team.|
