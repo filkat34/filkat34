@@ -18,9 +18,9 @@
 | CMS           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" /></a>|
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" /></a>|
 
-### Featured projects
+## Featured projects
 
-## Apps for education
+### Apps for education
 
 | Name | Stack | Description |
 | --------------: | ------------- |------------- |
