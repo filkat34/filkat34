@@ -1,13 +1,15 @@
-### 👋 I'm Filippos.
+## About me
+
+* 👋 I'm Filippos.
 
 * 💻 Student in computer science with specialization in software development
 
 * 🎓 Comparative literature PhD & master's degree in educational neuroscience
 
 * 👨‍🏫 High school literature teacher
-<br>
 
-| 🌱 Learning   | ⚙️ Tech |
+## Tech stack
+
 | --------------: | ------------- |
 | Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts,php,html,css" /></a>|
 | Frameworks | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,tailwind" /></a>|
