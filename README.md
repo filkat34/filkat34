@@ -20,6 +20,6 @@
 
 ## Featured projects
 
-| 📂 Project       | ⚙️ Stack          |❓ Description   |
-| :---------------- | :---------------: | :--------------- |
+| 📂        | ⚙️           |❓   |
+| :----------------: | :---------------: | :---------------: |
 | [Repartitor](https://filkat34.github.io/repartitor-ng/accueil)      | TS, IndexedDB, Angular |A management tool designed to organize the teaching responsibilities of a secondary school teaching team.|
