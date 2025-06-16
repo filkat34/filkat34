@@ -20,7 +20,7 @@
 
 ## Featured projects
 
-### Applications de gestion
+### Management tools
 
 | 📂        | ⚙️           | ❓   |
 | :----------------: | :---------------: | :---------------: |
