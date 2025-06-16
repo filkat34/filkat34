@@ -10,7 +10,7 @@
 
 ## Tech stack
 
-| 🌱 Learning   | ⚙️ Techs |
+| 🌱    | ⚙️  |
 | --------------: | ------------- |
 | Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts,php,html,css" /></a>|
 | Frameworks | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,tailwind" /></a>|
@@ -21,5 +21,5 @@
 ## Featured projects
 
 | 📂        | ⚙️           |❓   |
-| :----------------: | :---------------: | :---------------: |
+| :----------------: | :---------------: | ---------------: |
 | [Repartitor](https://filkat34.github.io/repartitor-ng/accueil)      | TS, IndexedDB, Angular |A management tool designed to organize the teaching responsibilities of a secondary school teaching team.|
