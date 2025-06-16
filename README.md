@@ -20,6 +20,10 @@
 
 ## Featured projects
 
+### Applications de gestion
+
 | 📂        | ⚙️           | ❓   |
 | :----------------: | :---------------: | :---------------: |
-| [Repartitor](https://filkat34.github.io/repartitor-ng/accueil)      | TS, IndexedDB, Angular, Tailwindcss |A management tool designed to organize the teaching responsibilities of a secondary school teaching team.|
+| [Repartitor](https://filkat34.github.io/repartitor-ng/accueil)      | TS, IndexedDB, Angular, Tailwindcss |A management application designed to organize the teaching responsibilities of a secondary school teaching team.|
+|[TriBibli](https://github.com/filkat34/TriBibliv2?tab=readme-ov-file) | C#, WinForms, sérialisation JSON |Windows desktop application that makes it easier to manage and organize books in your library, but which can also be used to sort other types of items (CDs, DVDs, etc.)"
+
