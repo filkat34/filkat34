@@ -19,7 +19,7 @@
 | Tools         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" /></a>|
 | Environments         | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian,windows" /></a>|
 
-## Featured projects
+## Projects
 
 ### Apps for education
 | 📂        | ⚙️           | ❓   |
