@@ -21,10 +21,16 @@
 
 ## Featured projects
 
+### Apps for education
+| 📂        | ⚙️           | ❓   |
+| :----------------: | :---------------: | :---------------: |
+|[LisiCalc](https://filkat34.github.io/lisicalc-react/) | TS, React, Taiwindcss | LisiCalc is a web application that calculates and displays various readability scores for French texts. |
+| [Repartitor](https://filkat34.github.io/repartitor-ng/accueil)      | TS, IndexedDB, Angular, Tailwindcss |A management application designed to organize the teaching responsibilities of a secondary school teaching team.|
+
+
 ### Management tools
 
 | 📂        | ⚙️           | ❓   |
 | :----------------: | :---------------: | :---------------: |
-| [Repartitor](https://filkat34.github.io/repartitor-ng/accueil)      | TS, IndexedDB, Angular, Tailwindcss |A management application designed to organize the teaching responsibilities of a secondary school teaching team.|
 |[TriBibli](https://github.com/filkat34/TriBibliv2?tab=readme-ov-file) | C#, WinForms |Windows desktop application that makes it easier to manage and organize books in your library, but which can also be used to sort other types of items (CDs, DVDs, etc.).
 
