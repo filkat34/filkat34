@@ -12,7 +12,7 @@
 
 | 📄    | ⚙️  |
 | :--------------: | ------------- |
-| Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,ts,php,html,css" /></a>|
+| Languages     | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,py,java,js,php,html,css" /></a>|
 | Libraries & frameworks | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,tailwind" /></a>|
 | Database <br> management <br> systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>|
 | CMS           | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" /></a>|
