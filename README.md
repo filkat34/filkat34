@@ -1,7 +1,5 @@
 ## About me
 
-* 👋 I'm Filippos.
-
 * 💻 Student in computer science with specialization in software development
 
 * 🎓 Comparative literature PhD & master's degree in educational neuroscience
