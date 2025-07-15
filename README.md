@@ -2,8 +2,8 @@
 
 * 💻 Student in computer science with specialization in software development
 
-* 🎓 Comparative literature PhD & master's degree in educational neuroscience
-
+* 🎓 Comparative literature PhD & master's degree in Cognitive science for education
+  
 * 👨‍🏫 High school literature teacher
 
 ## Tech stack
