@@ -11,6 +11,10 @@ Software developer in training, focused on web and mobile programming. Former ed
 - Databases: MySQL, PostgreSQL
 - Tools: Docker, GitHub Actions, Azure
 
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filkat34&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filkat34&theme=github_dark)
+
+
 ## Connect
 * 📂 [Portfolio](https://www.fi-soft.fr/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/fkatsanos/)
