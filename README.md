@@ -14,13 +14,14 @@ Software developer in training, focused on web and mobile programming. Former ed
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)  
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
 
-- Frameworks: NestJS, Angular, Symfony
-- Libraries: React, jQuery
-- Databases: MySQL, PostgreSQL
-- Tools: Docker, GitHub Actions, Azure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filkat34&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filkat34&theme=github_dark)
