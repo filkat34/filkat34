@@ -11,8 +11,6 @@ Software developer in training, focused on web and mobile programming. Former ed
 - Databases: MySQL, PostgreSQL
 - Tools: Docker, GitHub Actions, Azure
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=filakt34)](https://git.io/streak-stats)
-
 ## Connect
 * 📂 [Portfolio](https://www.fi-soft.fr/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/fkatsanos/)
