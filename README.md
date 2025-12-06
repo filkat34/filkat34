@@ -13,7 +13,8 @@ Software developer in training, focused on web and mobile programming. Former ed
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filkat34&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filkat34&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filkat34&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=filkat34&theme=dark)
+
 
 
 
