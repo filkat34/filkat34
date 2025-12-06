@@ -15,4 +15,6 @@ Software developer in training, focused on web and mobile programming. Former ed
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filkat34&theme=github_dark)
 
 ## Connect
-📂 [Portfolio](https://www.fi-soft.fr/) | 💼 [LinkedIn](https://www.linkedin.com/in/fkatsanos/) | 📫 [Email](mailto:filippos29@hotmail.com)
+📂 [Portfolio](https://www.fi-soft.fr/)  
+💼 [LinkedIn](https://www.linkedin.com/in/fkatsanos/)  
+📫 [Email](mailto:filippos29@hotmail.com)
