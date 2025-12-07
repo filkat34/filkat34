@@ -37,3 +37,6 @@ Software developer focused on web and mobile programming. Former educator with a
 * **Lisicalc** : readability score calculator app. Repository on [La Forge des communs numériques](https://forge.apps.education.fr/filipposkatsanos/lisicalc-react). Try it [here](https://lisicalc.forge.apps.education.fr).
 * **Repartitor** : service management application for a teaching team. Repository on [La Forge des communs numériques](https://forge.apps.education.fr/filipposkatsanos/repartitor-ng). Try it [here](https://repartitor.forge.apps.education.fr/accueil).
 * **TriBibli** : windows desktop application for managing and sorting books in a personal library. Repository on [Github](https://github.com/filkat34/TriBibliv2). You can install it by downloading and executing this [msi file](https://github.com/filkat34/TriBibliv2/blob/98cf949e34dd9671fc81f671b31946073c4e8f92/Install/Debug/InstallTriBibli.msi).
+
+## Connect
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fkatsanos/)
