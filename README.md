@@ -27,7 +27,9 @@ Software developer focused on web and mobile programming. Former educator with a
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filkat34&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filkat34&theme=github_dark)
 
