@@ -29,6 +29,7 @@ Software developer focused on web and mobile programming. Former educator with a
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
   
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filkat34&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filkat34&theme=github_dark)
