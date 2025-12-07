@@ -2,7 +2,7 @@
 Web Developer | PHP & TypeScript | Building scalable web applications
 
 ## About me
-Software developer in training, focused on web and mobile programming. Former educator with a PhD in Comparative Literature and a background in Cognitive Science and Translation. Passionate about building scalable backend systems and intuitive user interfaces, especially in EdTech.
+Software developer focused on web and mobile programming. Former educator with a PhD in Comparative Literature and a background in Cognitive Science and Translation. Passionate about building scalable backend systems and intuitive user interfaces, especially in EdTech.
 
 ## Core skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
