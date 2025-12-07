@@ -30,4 +30,5 @@ Software developer in training, focused on web and mobile programming. Former ed
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filkat34&theme=github_dark)
 
 ## Featured projects
+* **Lisicalc** : readability score calculator app. Hosted on [La Forge des communs numériques]([https://forge.apps.education.fr/filipposkatsanos/repartitor-ng](https://forge.apps.education.fr/filipposkatsanos/lisicalc-react)). Try it [here](https://lisicalc.forge.apps.education.fr).
 * **Repartitor** : service management application for a teaching team. Hosted on [La Forge des communs numériques](https://forge.apps.education.fr/filipposkatsanos/repartitor-ng). Try it [here](https://repartitor.forge.apps.education.fr/accueil).
