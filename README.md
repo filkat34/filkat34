@@ -2,7 +2,7 @@
 Software Developer | PHP & TypeScript
 
 ## About me
-Software developer specializing in web technologies. Former educator with a PhD in Humanities and a background in Cognitive Sciences and Translation. Focused on creating scalable backend systems and intuitive user interfaces, with a strong interest in EdTech.
+Software developer specializing in web technologies. Former educator with a PhD in Humanities and a background in Cognitive Sciences and Translation.
 
 ## Core skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
